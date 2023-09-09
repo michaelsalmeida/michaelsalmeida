@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/michael-almeida-34a97b22a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/MatthewsTomts/MatthewsTomts/blob/output/github-contribution-grid-snake.svg)
+
+  [![My Skills](https://skillicons.dev/icons?i=py,php,js,mysql,flask,azure,vscode,git,github)](https://skillicons.dev)
  
 </div>
 
